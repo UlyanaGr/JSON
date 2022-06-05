@@ -1,12 +1,33 @@
-[200~{
-	  "new_skills_JSON": {
-		      "skill_1": "JSON Intro",
-		          "skill_2": "JSON Syntax",
-			      "skill_3": "JSON Data Types",
-			          "skill_4": "JSON Stringify",
-				      "skill_5": "JSON Objects",
-				          "skill_6": "JSON Arrays"
-					    }
+{
+  "skills_to_be_learned_in_the_course": {
+    "skill_1": "Basic theory (What is testing, bugs, documentation, types, methods, testing directions, etc.) SDLC, STLC.",
+    "skill_2": "What is client-server architecture",
+    "skill_3": "HTTP Server Query Methods",
+    "skill_4": "HTTP Server Response Codes",
+    "skill_5": "HTTP request and response structures",
+    "skill_6": "What is JSON, XML. Their structure",
+    "skill_7": "API testing via Postman (JS, API autotests)",
+    "skill_8": "Reading logs from an external server",
+    "skill_9": "Sniffing http web traffic through Charles and Fiddler",
+    "skill_10": "Dev Tools of web-browsers (Google Chrome, FireFox)",
+    "skill_11": "VPN. (How does it Work, Why You Need, How to Use, Tool Options)",
+    "skill_12": "Mobile testing",
+    "skill_13": "Feature of iOS, Android, Guidlines",
+    "skill_14": "Building iOS Apps on XCode",
+    "skill_15": "Building Android Apps on Android Studio",
+    "skill_16": "ADB (Android Device Management)",
+    "skill_17": "Configure Proxy and VPN on iOS and Android",
+    "skill_18": "Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android",
+    "skill_19": "Linux command line (terminal) (copy, create, view, move files on servers without GUI)",
+    "skill_20": "Basics bash scripting, automation of routine tasks on the server",
+    "skill_21": "Access to remote servers",
+    "skill_22": "Basic of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+    "skill_23": "Postgres database (installation, configuration and use)",
+    "skill_24": "Redis non-relative database (installation, configuration and use)",
+    "skill_25": "Load testing in Jmeter",
+    "skill_26": "Scrum Development Methodology"
+
+  }
 }
 
 
