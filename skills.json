@@ -1,8 +1,12 @@
-JSON Intro
-JSON Syntax
-JSON Data Types
-JSON Stringify
-JSON Objects
-JSON Arrays
+[200~{
+	  "new_skills_JSON": {
+		      "skill_1": "JSON Intro",
+		          "skill_2": "JSON Syntax",
+			      "skill_3": "JSON Data Types",
+			          "skill_4": "JSON Stringify",
+				      "skill_5": "JSON Objects",
+				          "skill_6": "JSON Arrays"
+					    }
+}
 
 
